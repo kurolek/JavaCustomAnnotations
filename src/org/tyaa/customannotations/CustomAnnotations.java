@@ -49,5 +49,11 @@ public class CustomAnnotations {
         SessionController sc = new SessionController();
         injector.addControlledInstance(sc);
         sc.doWork();
+
+
+
+ 
+
+
     }
 }
